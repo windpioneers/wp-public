@@ -26,7 +26,7 @@ jobs:
         run: pip install poetry
 
       - name: Install dependencies
-        run: poetry install
+        run: poetry install --no-root
 
       # Generate styles before generating icons because iconMap will read the icon size, etc from the style (if same name)
       - name: Generate styles
