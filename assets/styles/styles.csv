@@ -39,13 +39,15 @@ sitingEllipseLine,sitingEllipseLine,0.6,#FFFFFF,0.8,0,0,#BAE5DF,1,100,#BAE5DF,40
 style_Boundary,style_Boundary,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Province,style_Province,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Buildings,style_Buildings,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
-style_Lidar,style_Lidar,0.6,#FFFFFF,0.8,0,1,#FFFFFF,1,100,#FFFFFF,40
+style_Lidar,style_Lidar,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Cemetery,style_Cemetery,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_Habitations,style_Habitations,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_HistoricAreas,style_HistoricAreas,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_Industrial,style_Industrial,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_Man-madeinfrastructure,style_Man-madeinfrastructure,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_Mast,style_Mast,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
+style_VMM,style_VMM,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
+style_Sodar,style_Sodar,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Military,style_Military,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_Settlements,style_Settlements,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_Towns,style_Towns,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40

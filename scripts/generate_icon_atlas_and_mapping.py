@@ -21,6 +21,8 @@ logger.addHandler(file_handler)
 
 REPOSITORY_ROOT_FOLDER = os.path.dirname(os.path.dirname(__file__))
 
+FULL_COLOUR_LEGACY_ICONS = {"mastIcon", "lidarIcon"}
+
 
 def get_icon_images(icon_folder, icon_extension="png"):
     files = os.listdir(icon_folder)
@@ -67,7 +69,7 @@ def generate_icon_atlas(images, file_path, icons_in_a_row=10, spacing=10, embed_
         image = image.resize((width, height))
         icon_atlas.paste(image, (image_x, image_y))
 
-        is_legacy_icon = not icon_name.startswith("style_")
+        is_legacy_icon = not icon_name.startswith("style_") and icon_name not in FULL_COLOUR_LEGACY_ICONS
         is_legacy_turbine_icon = icon_name == "turbineIcon"
 
         mask = True if is_legacy_icon else False
