@@ -1266,7 +1266,7 @@
     "icon_color": "#FFFFFF",
     "icon_opacity": 0.8,
     "label_size": 0.0,
-    "label_opacity": 1.0,
+    "label_opacity": 0.0,
     "line_color": "#FFFFFF",
     "line_width": 1.0,
     "line_opacity": 100.0,
@@ -1791,6 +1791,20 @@
     "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
+  "style_Sodar": {
+    "style_name": "style_Sodar",
+    "icon_name": "style_Sodar",
+    "icon_size": 0.6,
+    "icon_color": "#FFFFFF",
+    "icon_opacity": 0.8,
+    "label_size": 0.0,
+    "label_opacity": 0.0,
+    "line_color": "#FFFFFF",
+    "line_width": 1.0,
+    "line_opacity": 100.0,
+    "area_color": "#FFFFFF",
+    "area_opacity": 40.0
+  },
   "style_SolarPlant": {
     "style_name": "style_SolarPlant",
     "icon_name": "style_SolarPlant",
@@ -1943,6 +1957,20 @@
     "line_width": 1.0,
     "line_opacity": 100.0,
     "area_color": "#FFCCE6",
+    "area_opacity": 40.0
+  },
+  "style_VMM": {
+    "style_name": "style_VMM",
+    "icon_name": "style_VMM",
+    "icon_size": 0.6,
+    "icon_color": "#FFFFFF",
+    "icon_opacity": 0.8,
+    "label_size": 0.0,
+    "label_opacity": 0.0,
+    "line_color": "#FFFFFF",
+    "line_width": 1.0,
+    "line_opacity": 100.0,
+    "area_color": "#FFFFFF",
     "area_opacity": 40.0
   },
   "style_Violet": {

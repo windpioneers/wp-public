@@ -2088,7 +2088,7 @@
     ],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
-    "labelOpacity": 1.0,
+    "labelOpacity": 0.0,
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
@@ -2943,6 +2943,29 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_Sodar": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_SolarPlant": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
@@ -3188,6 +3211,29 @@
       255,
       204,
       230,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_VMM": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
       102
     ],
     "fillOpacity": 0.4,
