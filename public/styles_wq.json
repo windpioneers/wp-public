@@ -781,7 +781,237 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_BatteryAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BatteryConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BatteryDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BatteryDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BatteryOperating": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_BatteryStorage": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BiogasAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BiogasConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BiogasDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BiogasDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_BiogasOperating": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
     "colorRGBA": [
@@ -1011,6 +1241,121 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_CoalAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_CoalConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_CoalDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_CoalDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_CoalOperating": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_CommunicationTower": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
@@ -1080,6 +1425,29 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_Cyclone": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_Dam": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
@@ -1126,6 +1494,121 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_DistillateAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_DistillateConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_DistillateDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_DistillateDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_DistillateOperating": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_Dock": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
@@ -1150,6 +1633,29 @@
     "iconSize": 0.6
   },
   "style_Drydock": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_Earthquake": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
     "colorRGBA": [
@@ -1264,6 +1770,121 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_GasAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GasConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GasDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GasDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GasOperating": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_GasandOilPipelines": {
     "weight": 1.0,
     "color": "#9CDBCCFF",
@@ -1302,6 +1923,121 @@
       156,
       219,
       204,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GeothermalAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GeothermalConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GeothermalDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GeothermalDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_GeothermalOperating": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
       102
     ],
     "fillOpacity": 0.4,
@@ -1908,6 +2644,236 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_HydroAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydroConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydroDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydroDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydroOperating": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydrogenAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydrogenConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydrogenDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydrogenDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_HydrogenOperating": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_HydropowerPlant": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
@@ -2070,6 +3036,29 @@
     "iconSize": 0.6
   },
   "style_Lidar": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_Lightning": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
     "colorRGBA": [
@@ -2368,7 +3357,122 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_NuclearAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_NuclearConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_NuclearDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_NuclearDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_NuclearHazard": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_NuclearOperating": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
     "colorRGBA": [
@@ -2943,6 +4047,29 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_Sinkhole": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_Sodar": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
@@ -2966,7 +4093,237 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_SolarPVAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarPVConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarPVDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarPVDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarPVOperating": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_SolarPlant": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarThermalAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarThermalConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarThermalDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarThermalDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_SolarThermalOperating": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
     "colorRGBA": [
@@ -3035,6 +4392,29 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_SwitchingStation": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_Teal": {
     "weight": 1.0,
     "color": "#9CDBCCFF",
@@ -3050,6 +4430,29 @@
       156,
       219,
       204,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_Telecom": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
       102
     ],
     "fillOpacity": 0.4,
@@ -3173,6 +4576,29 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_Tsunami": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_UnexplodedOrdnance": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
@@ -3288,6 +4714,29 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_Warzone": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_WeatherMonitoringStation": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
@@ -3312,6 +4761,144 @@
     "iconSize": 0.6
   },
   "style_White": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_Wildfire": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_WindAbandoned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_WindConstruction": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_WindDecommissioned": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_WindDevelopment": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 0.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
+  "style_WindOperating": {
     "weight": 1.0,
     "color": "#FFFFFFFF",
     "colorRGBA": [
