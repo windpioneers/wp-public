@@ -23,6 +23,8 @@ REPOSITORY_ROOT_FOLDER = os.path.dirname(os.path.dirname(__file__))
 
 FULL_COLOUR_LEGACY_ICONS = {"mastIcon", "lidarIcon"}
 
+LEGACY_ICON_ALIASES = {"Style_WarZone": "style_Warzone", "style_Religiousbuildings": "style_ReligiousBuildings"}
+
 
 def get_icon_images(icon_folder, icon_extension="png"):
     files = os.listdir(icon_folder)
@@ -101,6 +103,8 @@ def main():
     icon_atlas_file_path = os.path.join(REPOSITORY_ROOT_FOLDER, "public", "icon_atlas.png")
 
     icon_mapping = generate_icon_atlas(images, icon_atlas_file_path)
+    for alias, icon_name in LEGACY_ICON_ALIASES.items():
+        icon_mapping[alias] = icon_mapping[icon_name]
     logger.info("Generated icon atlas at location %s", icon_atlas_file_path)
 
     icon_mapping_file_path = os.path.join(REPOSITORY_ROOT_FOLDER, "public", "icon_mapping.json")

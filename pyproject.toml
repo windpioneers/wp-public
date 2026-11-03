@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wp-common"
-version = "0.1.6"
+version = "0.1.7"
 description = ""
 authors = ["Naveen Anil <naveen.anil@wind-pioneers.com>"]
 readme = "README.md"
