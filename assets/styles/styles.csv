@@ -46,6 +46,7 @@ style_HistoricAreas,style_HistoricAreas,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE
 style_Industrial,style_Industrial,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_Man-madeinfrastructure,style_Man-madeinfrastructure,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
 style_Mast,style_Mast,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
+style_MetMast,style_MetMast,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_VMM,style_VMM,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Sodar,style_Sodar,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Military,style_Military,0.6,#FFCCE6,0.8,0,0,#FFCCE6,1,100,#FFCCE6,40
@@ -143,6 +144,7 @@ style_NationalPark,style_NationalPark,0.6,#CCED9F,0.8,0,0,#CCED9F,1,100,#CCED9F,
 style_ProtectedAreas,style_ProtectedAreas,0.6,#CCED9F,0.8,0,0,#CCED9F,1,100,#CCED9F,40
 style_ProtectedForest,style_ProtectedForest,0.6,#CCED9F,0.8,0,0,#CCED9F,1,100,#CCED9F,40
 style_ReligiousBuildings,style_ReligiousBuildings,0.6,#FFB583,0.8,0,0,#FFB583,1,100,#FFB583,40
+style_Religiousbuildings,style_ReligiousBuildings,0.6,#FFB583,0.8,0,0,#FFB583,1,100,#FFB583,40
 style_SpeciesData,style_SpeciesData,0.6,#DACAFC,0.8,0,0,#DACAFC,1,100,#DACAFC,40
 style_Tourist,style_Tourist,0.6,#FFB583,0.8,0,0,#FFB583,1,100,#FFB583,40
 style_Airports,style_Airports,0.6,#CACBCC,0.8,0,0,#CACBCC,1,100,#CACBCC,40
@@ -161,6 +163,7 @@ style_Lightning,style_Lightning,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Earthquake,style_Earthquake,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Wildfire,style_Wildfire,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Warzone,style_Warzone,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
+Style_WarZone,style_Warzone,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Sinkhole,style_Sinkhole,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_Tsunami,style_Tsunami,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
 style_SwitchingStation,style_SwitchingStation,0.6,#FFFFFF,0.8,0,0,#FFFFFF,1,100,#FFFFFF,40
