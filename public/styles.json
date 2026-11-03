@@ -1,4 +1,18 @@
 {
+  "Style_WarZone": {
+    "style_name": "Style_WarZone",
+    "icon_name": "style_Warzone",
+    "icon_size": 0.6,
+    "icon_color": "#FFFFFF",
+    "icon_opacity": 0.8,
+    "label_size": 0.0,
+    "label_opacity": 0.0,
+    "line_color": "#FFFFFF",
+    "line_width": 1.0,
+    "line_opacity": 100.0,
+    "area_color": "#FFFFFF",
+    "area_opacity": 40.0
+  },
   "beigeLine": {
     "style_name": "beigeLine",
     "icon_name": "beigeLine",
@@ -1945,6 +1959,20 @@
     "area_color": "#FFFFFF",
     "area_opacity": 40.0
   },
+  "style_MetMast": {
+    "style_name": "style_MetMast",
+    "icon_name": "style_MetMast",
+    "icon_size": 0.6,
+    "icon_color": "#FFFFFF",
+    "icon_opacity": 0.8,
+    "label_size": 0.0,
+    "label_opacity": 0.0,
+    "line_color": "#FFFFFF",
+    "line_width": 1.0,
+    "line_opacity": 100.0,
+    "area_color": "#FFFFFF",
+    "area_opacity": 40.0
+  },
   "style_Military": {
     "style_name": "style_Military",
     "icon_name": "style_Military",
@@ -2353,6 +2381,20 @@
   },
   "style_ReligiousBuildings": {
     "style_name": "style_ReligiousBuildings",
+    "icon_name": "style_ReligiousBuildings",
+    "icon_size": 0.6,
+    "icon_color": "#FFB583",
+    "icon_opacity": 0.8,
+    "label_size": 0.0,
+    "label_opacity": 0.0,
+    "line_color": "#FFB583",
+    "line_width": 1.0,
+    "line_opacity": 100.0,
+    "area_color": "#FFB583",
+    "area_opacity": 40.0
+  },
+  "style_Religiousbuildings": {
+    "style_name": "style_Religiousbuildings",
     "icon_name": "style_ReligiousBuildings",
     "icon_size": 0.6,
     "icon_color": "#FFB583",
